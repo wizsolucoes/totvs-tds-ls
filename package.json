@@ -7,7 +7,7 @@
     "totvs-tdscli-ls": "./dist/main.js"
   },
   "files": [
-    "src/"
+    "dist/"
   ],
   "scripts": {
     "start": "node ./dist/main.js",
