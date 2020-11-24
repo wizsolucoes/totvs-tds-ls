@@ -13,10 +13,10 @@
     "start": "node ./dist/main.js",
     "build": "tsc -p tsconfig.json"
   },
-  "homepage": "https://github.com/wizsolucoes/InstrumentationKeyCheck#instrumentation-key-check",
+  "homepage": "https://github.com/wizsolucoes/totvs-tds-ls",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wizsolucoes/InstrumentationKeyCheck"
+    "url": "https://github.com/wizsolucoes/totvs-tds-ls"
   },
   "private": false,
   "publishConfig": {
